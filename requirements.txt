@@ -1,0 +1,18 @@
+# YOLOv11 Object Detection Requirements
+
+# Core ML/AI packages
+ultralytics>=8.3.0
+onnxruntime>=1.16.0
+numpy>=1.21.0
+
+# Computer Vision
+opencv-python>=4.5.0
+
+# Utilities
+pathlib2>=2.3.0; python_version < "3.4"
+
+# Optional: For better performance
+# onnxruntime-gpu>=1.16.0  # Uncomment if you have NVIDIA GPU
+
+# Optional: Additional image processing
+# Pillow>=8.0.0
