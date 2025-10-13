@@ -58,3 +58,6 @@ logs/
 *.tmp
 *.temp
 temp/
+
+datasets/
+runs/
